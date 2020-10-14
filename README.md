@@ -1,10 +1,10 @@
 # cnh-yoloV5
 
-YoloV5 treinada para extrair informações de carteiras de habilitação brasileiras
+YoloV5 treinada para extrair informações de carteiras de habilitação brasileiras.  
 
-arquitetura: https://github.com/ultralytics/yolov5
+Arquitetura: https://github.com/ultralytics/yolov5  
 
-link para download dos modelo: https://drive.google.com/file/d/123VPUDDz2y__YEyIFZJFysUzR--gYB0e/view?usp=sharing
+Link para download do modelo: https://drive.google.com/file/d/123VPUDDz2y__YEyIFZJFysUzR--gYB0e/view?usp=sharing
 
 Uso:
 
